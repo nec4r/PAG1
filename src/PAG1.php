@@ -68,4 +68,4 @@ function repeatString($num,$str)
         }
         return $result;
     }
-    echo repeatString( 5,"programming");
+    echo repeatString( 5,"Hello");
